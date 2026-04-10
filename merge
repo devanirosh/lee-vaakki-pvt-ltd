@@ -1,0 +1,3 @@
+git checkout your-branch
+git merge origin/main
+git push origin your-branch
